@@ -1,16 +1,16 @@
-## Hi there 👋
+## Data Analyst Jr | SQL · Python · Power BI
 
-<!--
-**rgsa35/rgsa35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I come from an education background, where data was always present but rarely used to drive decisions.
 
-Here are some ideas to get you started:
+Today, I analyze, clean, and visualize data using Python, SQL, Excel, and Power BI to generate actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m seeking my first opportunity as a Data Analyst Jr in data-driven teams focused on business impact.
+
+### Tech Stack
+- Python
+- SQL
+- Pandas
+- NumPy
+- Excel
+- Power BI
+- Git | GitHub
